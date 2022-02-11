@@ -63,4 +63,5 @@
 #*.RTF   diff=astextplain
 
 # Essentail to be saved and viewed correctly
-*.*	working-tree-encoding=CP1251	eol=CRLF
+*.hpp	working-tree-encoding=CP1251	eol=CRLF
+*.cpp	working-tree-encoding=CP1251	eol=CRLF
