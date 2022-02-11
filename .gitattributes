@@ -61,3 +61,6 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+# Essentail to be saved and viewed correctly
+*.*	working-tree-encoding=CP1251	eol=CRLF
